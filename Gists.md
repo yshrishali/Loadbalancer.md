@@ -13,7 +13,17 @@ This is the distribution of requests based on multiple variables, from the netwo
 
 ## Network Load Balancer (NLB)
 * This is the distribution of traffic based on network variables, such as IP address and destination ports. It is layer 4 (TCP) and below and is not designed to take into consideration anything at the application layer such as content type, cookie data, custom headers, user location, or the application behavior.
-* 
+
+## Difference3 between HTTP and TLC
+
+* ![image](https://user-images.githubusercontent.com/83238288/116684134-31df3180-a9ce-11eb-833d-85bec7355ed8.png)
+
+
+
+
+
+
+
 # OSI Layers
 
 * IT stands for Open System Interconnection. 
@@ -21,3 +31,5 @@ This is the distribution of requests based on multiple variables, from the netwo
 * OSI model divides the whole task into seven smaller and manageable tasks. Each layer is assigned a particular task.
 
   * ![image](https://user-images.githubusercontent.com/83238288/116670295-2d5e4d00-a9bd-11eb-8cb7-45ca0cb57dee.png)
+
+
